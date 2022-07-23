@@ -1,0 +1,15 @@
+@import "config/variables";
+@import "config/layout";
+@import "config/color";
+
+@import "utilities/spacing";
+
+@import "base/fonts";
+@import "base/global";
+@import "base/typography";
+@import "base/links";
+$background-color : #000;
+
+body {
+        background-color: #785496;
+    }
